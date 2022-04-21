@@ -1,5 +1,5 @@
 # enhanced-weathering
-My enhanced weathering research papers
+My enhanced weathering papers.
 
 NS166 Final Project estimates olivine particle size effectiveness for carbon capture. We calculate the trade-off between energy consumption of grinding olivine into smaller particle sizes versus the acceleration of weathering for smaller particles to determine which would have a higher life-cycle cost and thus, higher cost of carbon sequestration. 
 
